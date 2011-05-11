@@ -7,8 +7,8 @@
 	<groupId>com.tacitknowledge.autopatch</groupId>
 	<artifactId>tk-autopatch-maven-plugin</artifactId>
 	<packaging>maven-plugin</packaging>
-	<version>1.0.1-SNAPSHOT</version>
-	<name>autopatch-maven-plugin</name>
+	<version>1.0.1</version>
+	<name>AutoPatch Maven Plugin</name>
 	<url>http://autopatch.sourceforge.net/</url>
 	<description>Maven plugin for AutoPatch</description>
 	<inceptionYear>2007</inceptionYear>
