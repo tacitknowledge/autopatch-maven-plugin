@@ -31,8 +31,8 @@
 	<!-- Project license -->
 	<licenses>
 		<license>
-			<name>Project License</name>
-			<url>http://www.tacitknowledge.com/licenses-1.0</url>
+			<name>Apache License 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
 		</license>
 	</licenses>
 
