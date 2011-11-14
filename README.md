@@ -39,7 +39,7 @@ POM usage:
     <plugin>
       <groupId>com.tacitknowledge</groupId>
       <artifactId>tk-autopatch-maven-plugin</artifactId>
-      <version>1.0.2</version>
+      <version>1.3.0</version>
       <configuration>
         <!-- The location of the patches -->
         <classpathElements>
@@ -65,7 +65,7 @@ POM usage:
         <plugin>
           <groupId>com.tacitknowledge</groupId>
           <artifactId>tk-autopatch-maven-plugin</artifactId>
-          <version>1.0.2</version>
+          <version>1.3.0</version>
           <executions>
             <execution>
               <phase>install</phase>

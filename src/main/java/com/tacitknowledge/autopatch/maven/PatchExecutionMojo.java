@@ -35,7 +35,7 @@ public class PatchExecutionMojo extends AbstractAutoPatchMojo {
         try {
             addClasspathElementsClassLoader();
 
-            JdbcMigrationLauncherFactory launcherFactory = JdbcMigrationLauncherFactoryLoader.createFactory();
+            JdbcMigrationLauncherFactory launcherFactory = new JdbcMigrationLauncherFactoryLoader().createFactory();
             JdbcMigrationLauncher launcher = launcherFactory.createMigrationLauncher(systemName, migrationSettings);
             launcher.doMigrations();
         }
