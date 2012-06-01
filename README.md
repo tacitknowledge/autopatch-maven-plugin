@@ -65,7 +65,7 @@ POM usage:
         <plugin>
           <groupId>com.tacitknowledge</groupId>
           <artifactId>tk-autopatch-maven-plugin</artifactId>
-          <version>1.4.1</version>
+          <version>1.4.0</version>
           <executions>
             <execution>
               <phase>install</phase>
@@ -77,7 +77,3 @@ POM usage:
         </plugin>
       </plugins>
     </build>
-
-
-
-
